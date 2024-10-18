@@ -1,1 +1,1 @@
-# Literary-MT-and-evaluation-by-human-and-LLM-
+# On literary translation and evaluation with LLMs and humans
