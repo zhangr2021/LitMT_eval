@@ -19,7 +19,7 @@
 ## LitEval-Corpus:
 
 ### Schemes Overview
-![Scheme summary](image/scheme_comparison.pdf)
+![Scheme summary](image/scheme_comparison.png)
 
 ### Example
 ![<img align="right" width="400">](image/exmaple_deen.pdf)
