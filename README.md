@@ -13,7 +13,7 @@
   - [MT evlaution](#)
 
  #### News:
- - Dataset and code to be updated. Please have so patience.
+ - Dataset and code is coming
 
 
 ## LitEval-Corpus:
