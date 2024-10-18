@@ -22,4 +22,4 @@
 ![Scheme summary](image/scheme_comparison.png)
 
 ### Example
-![<img align="right" width="400">](image/exmaple_deen.pdf)
+![<img align="right" width="400">](image/exmaple_deen.png)
