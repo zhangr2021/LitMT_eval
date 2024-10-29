@@ -1,4 +1,4 @@
-# [On literary translation and evaluation with LLMs and humans]() 
+# [How Good Are LLMs for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs](https://arxiv.org/abs/2410.18697) 
 
 ## Quick Links
 - [LitEval-Corpus](#)
