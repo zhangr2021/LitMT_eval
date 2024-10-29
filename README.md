@@ -10,7 +10,7 @@
   - [MT evlaution](#)
 
  #### News:
- - Dataset and code is coming
+ - 29/Oct/2024: We release student annotation and metric evaluation datasets.  
 
 
 ## LitEval-Corpus:
