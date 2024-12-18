@@ -3,7 +3,7 @@
 ## Quick Links
 - [LitEval-Corpus](#)
     - paragraph-level parallel corpus with verified high-quality human translations of both classic and contemporary published works; 9 MT systems including the GPT-4o, commercial models (DeepL and Google Translate), popular LLMs of various sizes (7-8b Llama 3, TowerInstruct, Qwen, Gemma), and older MT systems (M2M, NLLB).
-    This dataset is intended for academic purposes only. Use of this dataset requires agreement to the conditions listed in the [form](). <s>The download link will be demonstrated after the form is submitted<s>. We are updating the dataset content. The data-sharing link will be online soon!      
+    This dataset is intended for academic purposes only. Use of this dataset requires agreement to the conditions listed in the [form](https://forms.gle/tGi64MBt59HL4QBQ7). The dataset will be sent via email within two business days. 
 
 - [Code for MT generation and evaluation]()
   - [MT generation](#)
