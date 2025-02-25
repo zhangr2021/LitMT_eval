@@ -11,11 +11,13 @@ Note: Due to fair use restrictions, only truncated samples of the source and tar
 
 ## Analysis Scripts
 
+- `summary_statistics.py`: Calculates summary statistics for the evaluation results (dataset to be downloaded)
+
+- `agreement.py`: Calculates annotation agreement among students (dataset to be downloaded)
+
 - `metric_corr.py`: Computes and visualizes correlations between different metrics and human evaluations. Generates correlation heatmaps for:
   - Automatic metrics vs MQM scores
   - Aspect-specific correlations between GEMBA and human evaluations
-
-- `summary_statistics.py`: Calculates summary statistics for the evaluation results
 
 - `ratio_compute.py`: Computes proportions of human translation that are preferred over MT results.
 
