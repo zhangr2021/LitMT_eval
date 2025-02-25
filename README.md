@@ -7,7 +7,7 @@
 
 - [Code for MT generation and evaluation](codes)
 
-- [Meta information for source and translation](meta): the link indicates version information. The actual content may be acquired elsewhere. 
+- [Meta information for source and translation](meta): the link indicates version information. The actual content may be acquired elsewhere, e.g., from PAR3 or via purchase. 
   
  #### News:
  - 29/Oct/2024: We release student annotation and metric evaluation datasets.
