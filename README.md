@@ -11,7 +11,7 @@
   
  #### News:
  - 29/Oct/2024: We release student annotation and metric evaluation datasets.
- - 25/02/2025: Codes to reproduce main findings
+ - 25/02/2025: Codes to reproduce main findings and meta informaiton
 
 
 ## LitEval-Corpus:
