@@ -7,6 +7,8 @@
 
 - [Code for MT generation and evaluation](codes)
 
+- [Meta information for source and translation](meta): the link indicates version information. The actual content may be acquired elsewhere. 
+  
  #### News:
  - 29/Oct/2024: We release student annotation and metric evaluation datasets.
  - 25/02/2025: Codes to reproduce main findings
